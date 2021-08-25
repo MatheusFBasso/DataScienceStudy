@@ -1,17 +1,3 @@
-# Definição do Modelo
-
----
-# Legenda para companhamento do projeto
-✔ = Completo;
-
-⏳ = Desenvolvendo conteúdo;
-
-🔍 = Pesquisa concluída;
-
-👁‍🗨 = Pesquisando;
-
----
-
 # 3.0 - **Métricas de avaliação de modelos**
 ---
 
@@ -105,5 +91,5 @@ Um breve exmplo de como selecionar uma métrica de avaliação (a ser atualizado
 * out of sample:
   * Muito simples, os dados que não estão sendo usados para testar o modelo
 * out of time:
-  * Definição; ⏳
-  * Aplicação; ⏳
+  * Definição; ✔
+  * Aplicação; ✔
