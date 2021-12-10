@@ -1,2 +1,2 @@
 # DataScienceStudy
-Repositório para armazenar informações sobre meus arquivos sobre Data Science
+Repositório para armazenar informações sobre meus arquivos de Data Science
